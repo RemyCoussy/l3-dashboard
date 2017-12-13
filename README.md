@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -72,3 +73,14 @@ Enjoy!
 [14]: https://symfony.com/doc/current/setup/built_in_web_server.html
 # Symfony
 # l3-dashboard
+=======
+# l3-dashboard
+Projet Dashboard réalisé par les étudiants de L3 (12/2017)
+
+
+## TODO : 
+
+* forker le projet
+* commiter votre travail
+* faire une pull request avec votre code, en indiquant votre nom et prénom
+>>>>>>> 635e1093fde6c17290c489d4dd29371232e44c95
